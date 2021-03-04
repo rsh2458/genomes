@@ -1,0 +1,762 @@
+
+nthread = 0
+nthread = 0
+nthread = 0
+nthread = 0
+nthread = 0
+nthread = 0
+nthread = 0
+nthread = 0
+nthread = 0
+nthread = 0
+stacksize: 8192 kb
+generating a scoring matrix for nucleotide (dist=200) ... stacksize: 8192 kb
+done
+nthread = 0
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+generating a scoring matrix for nucleotide (dist=200) ... stacksize: 8192 kb
+done
+    1 / 18generating a scoring matrix for nucleotide (dist=200) ... nthread = 0
+done
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+stacksize: 8192 kb
+    1 / 18
+There are 1 ambiguous characters.
+    1 / 18generating a scoring matrix for nucleotide (dist=200) ... nthread = 0
+done
+nthread = 0
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+    1 / 18
+done.
+
+Constructing a UPGMA tree (efffree=0) ... stacksize: 8192 kb
+
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 1/2... 
+STEP     1 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18
+done.
+
+   10 / 18Constructing a UPGMA tree (efffree=0) ... 
+done.
+
+
+    0 / 18
+done.
+
+   10 / 18Constructing a UPGMA tree (efffree=0) ... generating a scoring matrix for nucleotide (dist=200) ... 
+done.
+
+
+    0 / 18   10 / 18
+done.
+
+done
+Progressive alignment 1/2... 
+STEP     1 / 17 fProgressive alignment 1/2... 
+Progressive alignment 1/2... 
+STEP     1 / 17 STEP     1 / 17 ffstacksize: 8192 kb
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+
+There are 1 ambiguous characters.
+    1 / 18generating a scoring matrix for nucleotide (dist=200) ... done
+stacksize: 8192 kb
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+    1 / 18
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18   10 / 18
+done.
+
+stacksize: 8192 kb
+Progressive alignment 1/2... 
+STEP     1 / 17 fstacksize: 8192 kb
+generating a scoring matrix for nucleotide (dist=200) ... generating a scoring matrix for nucleotide (dist=200) ... done
+
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18stacksize: 8192 kb
+   10 / 18
+done.
+
+done
+generating a scoring matrix for nucleotide (dist=200) ... done
+Progressive alignment 1/2... 
+STEP     1 / 17 fGap Penalty = -1.53, +0.00, +0.00
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+
+
+
+Making a distance matrix ..
+Gap Penalty = -1.53, +0.00, +0.00
+generating a scoring matrix for nucleotide (dist=200) ...     1 / 18
+
+
+Making a distance matrix ..
+
+There are 1 ambiguous characters.
+    1 / 18done
+    1 / 18Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+stacksize: 8192 kb
+
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 1/2... 
+STEP     1 / 17 f    1 / 18generating a scoring matrix for nucleotide (dist=200) ... done
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+
+done.
+
+    1 / 18Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18   10 / 18
+done.
+
+
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 1/2... 
+STEP     1 / 17 fProgressive alignment 1/2... 
+STEP     1 / 17 fstacksize: 8192 kb
+
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 1/2... 
+
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18   10 / 18
+done.
+
+STEP     1 / 17 fgenerating a scoring matrix for nucleotide (dist=200) ... done
+Progressive alignment 1/2... 
+STEP     1 / 17 fGap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+
+There are 1 ambiguous characters.
+    1 / 18stacksize: 8192 kb
+stacksize: 8192 kb
+
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18   10 / 18
+done.
+
+generating a scoring matrix for nucleotide (dist=200) ... Progressive alignment 1/2... 
+STEP     1 / 17 fgenerating a scoring matrix for nucleotide (dist=200) ... done
+done
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+    1 / 18    1 / 18STEP     2 / 17 fSTEP     2 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18   10 / 18
+done.
+
+
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 1/2... 
+STEP     1 / 17 fProgressive alignment 1/2... 
+STEP     1 / 17 fSTEP     2 / 17 fSTEP     3 / 17 fSTEP     3 / 17 fSTEP     2 / 17 fSTEP     2 / 17 fSTEP     2 / 17 fSTEP     4 / 17 fSTEP     4 / 17 fSTEP     2 / 17 fSTEP     2 / 17 fSTEP     3 / 17 fSTEP     5 / 17 fSTEP     3 / 17 fSTEP     2 / 17 fSTEP     3 / 17 fSTEP     6 / 17 fSTEP     3 / 17 fSTEP     3 / 17 fSTEP     2 / 17 fSTEP     4 / 17 fSTEP     7 / 17 fSTEP     3 / 17 fSTEP     2 / 17 fSTEP     3 / 17 fSTEP     4 / 17 fSTEP     4 / 17 fSTEP     8 / 17 fSTEP     4 / 17 STEP     3 / 17 ffSTEP     5 / 17 fSTEP     4 / 17 fSTEP     4 / 17 fSTEP     9 / 17 fSTEP     4 / 17 fSTEP     6 / 17 fSTEP     3 / 17 fSTEP     5 / 17 fSTEP    10 / 17 fSTEP     5 / 17 f
+Reallocating..STEP     2 / 17 done. *alloclen = 2623
+fSTEP     5 / 17 fSTEP     5 / 17 fSTEP     5 / 17 fSTEP    11 / 17 fSTEP     4 / 17 fSTEP     2 / 17 fSTEP     5 / 17 fSTEP     7 / 17 fSTEP     6 / 17 fSTEP     2 / 17 fSTEP     6 / 17 fSTEP    12 / 17 fSTEP     4 / 17 fSTEP     5 / 17 fSTEP     6 / 17 fSTEP     6 / 17 fSTEP     6 / 17 fSTEP     8 / 17 fSTEP    13 / 17 fSTEP     7 / 17 fSTEP     3 / 17 fSTEP     6 / 17 fSTEP     3 / 17 fSTEP     7 / 17 fSTEP    14 / 17 STEP     6 / 17 ffSTEP     7 / 17 fSTEP     3 / 17 fSTEP     7 / 17 fSTEP     7 / 17 fSTEP     7 / 17 f
+Reallocating..done. *alloclen = 1668
+STEP    15 / 17 fSTEP     4 / 17 fSTEP     9 / 17 fSTEP     8 / 17 fSTEP     8 / 17 fSTEP     5 / 17 fSTEP     4 / 17 fSTEP     5 / 17 fSTEP     8 / 17 fSTEP    16 / 17 fSTEP     4 / 17 fSTEP     8 / 17 fSTEP     8 / 17 fSTEP     8 / 17 fSTEP    10 / 17 fSTEP     9 / 17 fSTEP     6 / 17 fSTEP     9 / 17 fSTEP     7 / 17 fSTEP     9 / 17 fSTEP    17 / 17 d
+Reallocating..done. *alloclen = 2623
+STEP     5 / 17 fSTEP     6 / 17 fSTEP     9 / 17 fSTEP     9 / 17 fSTEP     5 / 17 STEP    10 / 17 ffSTEP     9 / 17 fSTEP     8 / 17 fSTEP    11 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    10 / 17 fSTEP    10 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+STEP     5 / 17 f    0 / 18
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 17 f
+Reallocating..done. *alloclen = 2622
+STEP    12 / 17 fSTEP    10 / 17 fSTEP    10 / 17 fSTEP     7 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    11 / 17 fSTEP     6 / 17 fSTEP    11 / 17 fSTEP    10 / 17 fSTEP    11 / 17 fSTEP     6 / 17 fSTEP     7 / 17 fSTEP     9 / 17 fSTEP     6 / 17 fSTEP    13 / 17 fSTEP    11 / 17 fSTEP    11 / 17 fSTEP    12 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    12 / 17 fSTEP    12 / 17 fSTEP    11 / 17 fSTEP     8 / 17 fSTEP     8 / 17 fSTEP    12 / 17 fSTEP    13 / 17 fSTEP    13 / 17 fSTEP     7 / 17 fSTEP    12 / 17 fSTEP    14 / 17 fSTEP     7 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    13 / 17 fSTEP    13 / 17 fSTEP    10 / 17 fSTEP    12 / 17 fSTEP     7 / 17 fSTEP     9 / 17 fSTEP    14 / 17 fSTEP    14 / 17 fSTEP    13 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    13 / 17 fSTEP     2 / 17 fSTEP    15 / 17 fSTEP    14 / 17 fSTEP     9 / 17 fSTEP    14 / 17 fSTEP    14 / 17 fSTEP     3 / 17 fSTEP     8 / 17 fSTEP     8 / 17 fSTEP    15 / 17 fSTEP     4 / 17 fSTEP    11 / 17 fSTEP    15 / 17 fSTEP    14 / 17 fSTEP     5 / 17 fSTEP     8 / 17 fSTEP    10 / 17 fSTEP    15 / 17 fSTEP    15 / 17 fSTEP    15 / 17 fSTEP     6 / 17 fSTEP     7 / 17 fSTEP     8 / 17 fSTEP    16 / 17 fSTEP    15 / 17 fSTEP    10 / 17 fSTEP    16 / 17 fSTEP    16 / 17 fSTEP    16 / 17 fSTEP    16 / 17 fSTEP     9 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    12 / 17 fSTEP     9 / 17 fSTEP     9 / 17 fSTEP    10 / 17 fSTEP    11 / 17 fSTEP     9 / 17 fSTEP    16 / 17 fSTEP    16 / 17 fSTEP    11 / 17 fSTEP    17 / 17 fSTEP    17 / 17 fSTEP    17 / 17 fSTEP    17 / 17 fSTEP    17 / 17 fSTEP    12 / 17 f
+Reallocating..done. *alloclen = 2615
+STEP    10 / 17 fSTEP    13 / 17 fSTEP    11 / 17 fSTEP    17 / 17 fSTEP    17 / 17 fSTEP    14 / 17 fSTEP    13 / 17 fSTEP    10 / 17 fSTEP    12 / 17 STEP    10 / 17 ffSTEP    15 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 18
+done.
+
+Making a distance matrix from msa.. 
+STEP    16 / 17 fSTEP    14 / 17 f    0 / 18
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 2/2... 
+
+Reallocating..STEP     1 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18done. *alloclen = 2623
+STEP    13 / 17    10 / 18f
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 17 fSTEP    12 / 17 fSTEP    11 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 18
+Reallocating..done. *alloclen = 1670
+STEP    17 / 17 d
+done.
+
+Making a distance matrix from msa.. 
+    0 / 18
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+    0 / 18STEP    11 / 17 f
+done.
+
+Progressive alignment 2/2... 
+Making a distance matrix from msa.. 
+STEP     1 / 17 f    0 / 18
+Reallocating..done. *alloclen = 2622
+STEP    13 / 17 fSTEP    11 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 2/2... 
+
+done.
+
+STEP     1 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+    0 / 18
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+STEP    15 / 17 fProgressive alignment 2/2... 
+STEP     1 / 17 fSTEP    14 / 17 STEP    12 / 17 ffSTEP    14 / 17 fSTEP    12 / 17 fSTEP    12 / 17 fSTEP    16 / 17 fSTEP    13 / 17 f
+Reallocating..done. *alloclen = 2623
+
+STEP    13 / 17 fSTEP     2 / 17 fSTEP    15 / 17 STEP    13 / 17 ffSTEP     2 / 17 fStrategy:
+STEP    15 / 17 fSTEP     3 / 17 f FFT-NS-2STEP     2 / 17 fSTEP    17 / 17 STEP     3 / 17 ffSTEP    14 / 17 f (Fast but rough)
+STEP     2 / 17 fSTEP     3 / 17 f Progressive method (guide trees were built 2 times.)
+STEP     2 / 17 fSTEP     2 / 17 fSTEP     4 / 17 f
+STEP    14 / 17 STEP     3 / 17 ffSTEP     2 / 17 fSTEP     4 / 17 fSTEP    16 / 17 If unsure which option to use, try 'mafft --auto input > output'.
+fSTEP     3 / 17 fSTEP     4 / 17 fSTEP    14 / 17 fSTEP    16 / 17 fFor more information, see 'mafft --help', 'mafft --man' and the mafft page.
+STEP     3 / 17 fSTEP     5 / 17 fSTEP     3 / 17 
+fSTEP     5 / 17 fSTEP     4 / 17 fThe default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+STEP     4 / 17 fSTEP     5 / 17 fSTEP    15 / 17 fSTEP     4 / 17 fSTEP     6 / 17 fIt tends to insert more gaps into gap-rich regions than previous versions.
+STEP     4 / 17 fSTEP     5 / 17 fTo disable this change, add the --leavegappyregion option.
+
+STEP     6 / 17 fSTEP    15 / 17 fSTEP    17 / 17 fSTEP     6 / 17 fSTEP     5 / 17 fSTEP    15 / 17 fSTEP     6 / 17 fSTEP    17 / 17 fSTEP     5 / 17 fSTEP     7 / 17 fSTEP     7 / 17 fSTEP     5 / 17 fSTEP     7 / 17 fSTEP     6 / 17 fSTEP    16 / 17 fSTEP     8 / 17 fSTEP     7 / 17 fSTEP     6 / 17 fSTEP     6 / 17 fSTEP     8 / 17 fSTEP     8 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 18STEP    16 / 17 fSTEP     7 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+STEP    16 / 17 fProgressive alignment 2/2... 
+STEP     1 / 17 fSTEP     8 / 17 fSTEP     9 / 17 fSTEP     7 / 17 fSTEP     7 / 17 fSTEP     9 / 17 fSTEP     9 / 17 fSTEP     8 / 17 fSTEP    17 / 17 fSTEP     8 / 17 fSTEP     9 / 17 fSTEP    10 / 17 fSTEP     8 / 17 fSTEP    10 / 17 fSTEP    17 / 17 fSTEP    10 / 17 fSTEP    11 / 17 fSTEP    17 / 17 fSTEP     9 / 17 fSTEP     9 / 17 fSTEP    10 / 17 fSTEP     9 / 17 fSTEP    11 / 17 fSTEP    10 / 17 fSTEP    10 / 17 fSTEP    11 / 17 fSTEP    12 / 17 fSTEP    11 / 17 fSTEP    12 / 17 fSTEP    10 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 18STEP    11 / 17 fSTEP    12 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=1) ... STEP    13 / 17 f
+    0 / 18   10 / 18
+done.
+
+STEP    11 / 17 fSTEP    13 / 17 fProgressive alignment 2/2... 
+STEP     1 / 17 fSTEP    12 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 18STEP    11 / 17 fSTEP    12 / 17 fSTEP    12 / 17 fSTEP    13 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 17 fSTEP    14 / 17 fSTEP    14 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 18
+Reallocating..done. *alloclen = 2623
+STEP    12 / 17 fSTEP     2 / 17 f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 18STEP    13 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+STEP    13 / 17 fProgressive alignment 2/2... 
+STEP     1 / 17 fSTEP     3 / 17 f
+Reallocating..
+Reallocating..done. *alloclen = 2623
+STEP    15 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    15 / 17 fSTEP    13 / 17 fdone. *alloclen = 2623
+STEP    14 / 17 fSTEP    13 / 17 fSTEP    14 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    14 / 17 fSTEP    16 / 17 fSTEP    16 / 17 fSTEP    14 / 17 fSTEP    14 / 17 STEP    15 / 17 ffSTEP     4 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    15 / 17 fSTEP    17 / 17 fSTEP    17 / 17 fSTEP    15 / 17 fSTEP     5 / 17 fSTEP    15 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    15 / 17 fSTEP    16 / 17 fSTEP    16 / 17 fSTEP     6 / 17 fSTEP    16 / 17 fSTEP     2 / 17 f
+done.
+
+
+done.
+
+Making a distance matrix from msa.. 
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+    0 / 18STEP    16 / 17 fSTEP    17 / 17 fSTEP    16 / 17 fSTEP    17 / 17 f
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 18   10 / 18
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 17 fSTEP     7 / 17 fSTEP     3 / 17 fSTEP     2 / 17 f
+done.
+
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+STEP    17 / 17 fSTEP    17 / 17 fSTEP     2 / 17 fSTEP     2 / 17 f
+done.
+
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+STEP     8 / 17 fSTEP     3 / 17 f
+STEP     3 / 17 f
+done.
+
+STEP     4 / 17 fdisttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+Strategy:
+STEP     4 / 17 fSTEP     9 / 17 f FFT-NS-2STEP    17 / 17 STEP     5 / 17 ff
+ (Fast but rough)
+STEP     4 / 17 fSTEP     6 / 17  Progressive method (guide trees were built 2 times.)
+Strategy:
+fSTEP     5 / 17 fSTEP     3 / 17 f
+ FFT-NS-2
+done.
+
+STEP    10 / 17 fdisttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+
+ (Fast but rough)
+
+done.
+
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+STEP     4 / 17 
+fdisttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+STEP     7 / 17 fStrategy:
+ Progressive method (guide trees were built 2 times.)
+
+Strategy:
+ FFT-NS-2
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+STEP    11 / 17 f FFT-NS-2STEP     8 / 17 fIf unsure which option to use, try 'mafft --auto input > output'.
+ (Fast but rough)
+STEP     5 / 17 It tends to insert more gaps into gap-rich regions than previous versions.
+STEP     5 / 17  (Fast but rough)
+ffSTEP     6 / 17 f Progressive method (guide trees were built 2 times.)
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+done.
+
+To disable this change, add the --leavegappyregion option.
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+STEP    12 / 17  Progressive method (guide trees were built 2 times.)
+f
+STEP     2 / 17 
+
+f
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+
+If unsure which option to use, try 'mafft --auto input > output'.
+It tends to insert more gaps into gap-rich regions than previous versions.
+STEP     9 / 17 fStrategy:
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+STEP     7 / 17 fTo disable this change, add the --leavegappyregion option.
+STEP     6 / 17 f FFT-NS-2For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+Strategy:
+
+STEP    13 / 17 f FFT-NS-2 (Fast but rough)
+
+STEP     7 / 17 The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+
+fSTEP     3 / 17 fSTEP     6 / 17  (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+fIt tends to insert more gaps into gap-rich regions than previous versions.
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+Strategy:
+
+ Progressive method (guide trees were built 2 times.)
+It tends to insert more gaps into gap-rich regions than previous versions.
+ FFT-NS-2STEP    10 / 17 To disable this change, add the --leavegappyregion option.
+fIf unsure which option to use, try 'mafft --auto input > output'.
+STEP     8 / 17 
+fSTEP     4 / 17 fSTEP    14 / 17 For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+To disable this change, add the --leavegappyregion option.
+STEP     8 / 17 f (Fast but rough)
+fIf unsure which option to use, try 'mafft --auto input > output'.
+STEP    11 / 17 
+f
+STEP     5 / 17 fFor more information, see 'mafft --help', 'mafft --man' and the mafft page.
+ Progressive method (guide trees were built 2 times.)
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+
+STEP     7 / 17 f
+STEP     9 / 17 fSTEP     9 / 17 It tends to insert more gaps into gap-rich regions than previous versions.
+fThe default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+If unsure which option to use, try 'mafft --auto input > output'.
+It tends to insert more gaps into gap-rich regions than previous versions.
+
+Reallocating..To disable this change, add the --leavegappyregion option.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+STEP    12 / 17 done. *alloclen = 2623
+fSTEP    15 / 17 To disable this change, add the --leavegappyregion option.
+fSTEP     6 / 17 f
+
+
+STEP     8 / 17 fSTEP    10 / 17 fSTEP    10 / 17 The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+fSTEP     7 / 17 fIt tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+STEP    11 / 17 fSTEP    16 / 17 f
+STEP    13 / 17 fSTEP     9 / 17 fSTEP    11 / 17 fSTEP     8 / 17 fSTEP    12 / 17 fSTEP    12 / 17 fSTEP    17 / 17 fSTEP    14 / 17 fSTEP    10 / 17 fSTEP     9 / 17 fSTEP    11 / 17 fSTEP    13 / 17 fSTEP    13 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    15 / 17 fSTEP    10 / 17 fSTEP    12 / 17 fSTEP    14 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    14 / 17 fSTEP    11 / 17 fSTEP    16 / 17 f
+done.
+
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+STEP    13 / 17 f
+Reallocating..done. *alloclen = 2623
+STEP    15 / 17 fSTEP    15 / 17 fSTEP    12 / 17 fSTEP    17 / 17 fSTEP    14 / 17 f
+STEP    16 / 17 STEP    16 / 17 ffStrategy:
+STEP    13 / 17 f FFT-NS-2
+Reallocating..done. *alloclen = 2624
+STEP    15 / 17 f (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+STEP    17 / 17 f
+STEP    17 / 17 fSTEP    14 / 17 fIf unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+STEP    16 / 17 fThe default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+Reallocating..done. *alloclen = 2623
+STEP    15 / 17 f
+done.
+
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+
+STEP    17 / 17 f
+done.
+
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+STEP    16 / 17 f
+done.
+
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+
+Strategy:
+ FFT-NS-2
+ (Fast but rough)
+STEP    17 / 17 fStrategy:
+ Progressive method (guide trees were built 2 times.)
+
+done.
+
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+
+ FFT-NS-2
+ (Fast but rough)
+If unsure which option to use, try 'mafft --auto input > output'.
+Strategy:
+ Progressive method (guide trees were built 2 times.)
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+ FFT-NS-2
+
+ (Fast but rough)
+If unsure which option to use, try 'mafft --auto input > output'.
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+ Progressive method (guide trees were built 2 times.)
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+It tends to insert more gaps into gap-rich regions than previous versions.
+
+
+To disable this change, add the --leavegappyregion option.
+Strategy:
+If unsure which option to use, try 'mafft --auto input > output'.
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+
+ FFT-NS-2For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+It tends to insert more gaps into gap-rich regions than previous versions.
+
+ (Fast but rough)
+To disable this change, add the --leavegappyregion option.
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+ Progressive method (guide trees were built 2 times.)
+
+It tends to insert more gaps into gap-rich regions than previous versions.
+
+To disable this change, add the --leavegappyregion option.
+If unsure which option to use, try 'mafft --auto input > output'.
+
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+done.
+
+disttbfast (nuc) Version 7.310 alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+
+Strategy:
+ FFT-NS-2 (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+User_spec ortho9.fa
+User_spec ortho8.fa
+User_spec ortho1.fa
+User_spec ortho14.fa
+User_spec ortho4.fa
+User_spec ortho12.fa
+sh: 1: raxml: Permission denied
+Traceback (most recent call last):
+  File "visualize.py", line 216, in <module>
+    makeImages(i)
+  File "visualize.py", line 28, in makeImages
+    for l in open(pat+'sample.txt','r').readlines():
+IOError: [Errno 2] No such file or directory: '/stor/work/Ochman/rowan/ConSpeciFix_Main/ConSpeciFix_Original/Test-Data/1_dengue_pre/_conspecifix/database/User_spec/sample.txt'
+cp: cannot stat '/stor/work/Ochman/rowan/ConSpeciFix_Main/ConSpeciFix_Original/Test-Data/1_dengue_pre/_conspecifix/database/User_spec/criterion.txt': No such file or directory
+ 
+ ---ConSpeciFix---
+ 
+Expecting species.txt to already be in place
+ 
+runId:1614218387.3
+path of log files:
+/stor/work/Ochman/rowan/ConSpeciFix_Main/ConSpeciFix_Original/Test-Data/1_dengue_pre/_conspecifix/database/out_1614218387.3/
+ 
+Making folders
+Usearch
+Parsing Usearch
+MCL
+Getting Core Genome
+Mafft
+Making a single Concat file
+RAxML
+Sampling
+Calculating HM Ratio
+Making HM Graph
+Making Distrib Graphs
+Making KMeans Graphs
+Criterion...
+Making Point Graph
+Combine the images
+Making Map of Genome
+Completed
+...
+Results in:
+/stor/work/Ochman/rowan/ConSpeciFix_Main/ConSpeciFix_Original/Test-Data/1_dengue_pre/_conspecifix/database/User_spec/
+
+
+Please site:
+Bobay LM, Ochman H. Biological species are universal across life's domains.
+Genome Biol Evol. 2017. doi: 10.1093/gbe/evx026.
+
+starting...
+cleaning files...
+calling launcher...
